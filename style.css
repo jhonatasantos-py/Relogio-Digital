@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'diner';
+    src: url(Gorgeous-Medium.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0b192b;
+    color: white;
+}
+
+span{
+    font-family: 'diner';
+    font-size: 400px;
+    margin: 5px;
+    border-radius: 15px;
+
+}
+
